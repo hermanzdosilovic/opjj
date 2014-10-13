@@ -1,0 +1,12 @@
+ï»¿Skinuti zadnju verziju paketa c3p0-verzija.bin.zip:
+
+http://sourceforge.net/projects/c3p0/
+
+U trenutku pisanja ovog dokumenta to je c3p0-0.9.5.pre8.bin.zip
+
+Iz te arhive trebamo dva JAR-a iz direktorija lib:
+
+c3p0-0.9.5-pre8.jar
+mchange-commons-java-0.2.7.jar
+
+U sluèaju novije vezije, to æe biti vidljivo i u imenima ovih arhiva.
