@@ -3,6 +3,24 @@ OPJJ
 
 All my materials from class [*Basics of Java programming language*](http://java.zemris.fer.hr/) (Osnove programskog jezika Java) that I took in my second semester on [Faculty of Electrical Engineering and Computing (FER)](http://www.fer.unizg.hr/en) in [Zagreb](http://en.wikipedia.org/wiki/Zagreb).
 
+About
+--------
+Some interesting homeworks that we needed to solve:
+
+* Parsing and executing scripting language
+* Executing assemby code
+* Creating multithreaded ray tracer
+* Implementing multithreaded quicksort algorithm
+* Creating own calculator with UI
+* Creating own MS-Paint like application
+* Web technology - from basic web pages to functional blogs on top of the SQL databases
+* Basic Android phonebook application
+
+We had 17 homeworks that we needed to solve.
+
+![sve.png](https://bitbucket.org/repo/xG95zk/images/2435084840-sve.png)
+
+
 License
 -------
 The MIT License (MIT)
