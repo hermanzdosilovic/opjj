@@ -18,7 +18,7 @@ Some interesting homeworks that we needed to solve:
 
 We had 17 homeworks that we needed to solve.
 
-![sve.png](https://bitbucket.org/repo/xG95zk/images/2435084840-sve.png)
+![sve.png](https://raw.githubusercontent.com/hermanzdosilovic/opjj/master/sve.png)
 
 
 License
